@@ -88,4 +88,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-*Built with ❤️ by [Devika Shetty](https://github.com/devikashetty1710)*
+*[Devika Shetty](https://github.com/devikashetty1710)*
